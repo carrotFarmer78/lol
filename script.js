@@ -17,6 +17,7 @@ async function getLeagueAccount(name){
 
 
     console.log(data.summonerLevel)
+    console.log(data.puuid)
 }
 
 getLeagueAccount("tsich")
